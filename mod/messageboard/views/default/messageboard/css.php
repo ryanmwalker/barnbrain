@@ -6,5 +6,6 @@
 ?>
 
 .messageboard-input {
-	height: 100px;
+	height: 250px;
+	width: 500px;
 }
